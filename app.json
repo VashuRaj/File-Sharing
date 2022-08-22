@@ -1,5 +1,5 @@
 {
-  "name": "File-Sharing",
+  "name": "⚡️⚡️File-Sharing⚡️⚡️",
   "description": "Telegram Bot to Share any Telegram Media.",
   "keywords": [
     "telegram",
@@ -7,9 +7,9 @@
     "share",
     "file"
   ],
-  "success_url": "https://github.com/X-Gorn/File-Sharing",
-  "website": "https://github.com/X-Gorn",
-  "repository": "https://github.com/X-Gorn/File-Sharing",
+  "success_url": "https://github.com/VashuRaj/File-Sharing",
+  "website": "https://github.com/VashuRaj/File-Sharing",
+  "repository": "https://github.com/VashuRaj/File-Sharing",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
